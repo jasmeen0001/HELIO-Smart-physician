@@ -43,4 +43,3 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
     docker run -d --name physician-assistant-ui -p 4200:4200 physician-assistant 
     `
 # HELIO-Smart-physician
-# HELIO-Smart-physician
